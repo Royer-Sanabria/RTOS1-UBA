@@ -17,6 +17,8 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\USUARIO\Desktop\SISTEMAS EMBEBIDOS\RTOS\freertos_app_example_1_6"/>
+			<item value="C:\Users\USUARIO\Desktop\SISTEMAS EMBEBIDOS\RTOS\freertos_app_example_2_6"/>
 			<item value="C:\Users\USUARIO\Desktop\SISTEMAS EMBEBIDOS\RTOS\freertos_book_Example001"/>
 		</list>
 	</section>

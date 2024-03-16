@@ -1,0 +1,10 @@
+15:58:51 **** Incremental Build of configuration Debug for project freertos_app_example_2_6 ****
+make -j8 all 
+arm-none-eabi-size  freertos_app_example_2_6.elf 
+   text	   data	    bss	    dec	    hex	filename
+  22856	    184	  18696	  41736	   a308	freertos_app_example_2_6.elf
+Finished building: default.size.stdout
+ 
+
+15:58:52 Build Finished. 0 errors, 0 warnings. (took 362ms)
+
